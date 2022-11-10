@@ -1,0 +1,58 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Nokia s10",
+            "color": "red",
+            "price": 15000,
+            "category": "Mobile",
+            "brand": "Nokia",
+            "photo": "https://m.media-amazon.com/images/I/51gj8xop4pL.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Oppo s10",
+            "color": "red",
+            "price": 15000,
+            "category": "Mobile",
+            "brand": "Oppo",
+            "photo": "https://m.media-amazon.com/images/I/51gj8xop4pL.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Cheeta",
+            "color": "black",
+            "price": 2000,
+            "category": "Shoes",
+            "brand": "Nike",
+            "photo": "https://i.pinimg.com/originals/20/66/da/2066da25b99f7f1d8d2b17fbcfe91ce6.jpg"
+        },
+        {
+            "id": 4,
+            "name": "T-shirt",
+            "color": "blue",
+            "price": 1500,
+            "category": "Clothes",
+            "brand": "Adidas",
+            "photo": "https://www.rei.com/media/43314827-8954-4e1e-a32b-8fd2ce0c0b99?size=576x768"
+        },
+        {
+            "id": 5,
+            "name": "Rubber ball",
+            "color": "green",
+            "price": 150,
+            "category": "Toy",
+            "brand": "Gucci",
+            "photo": "https://media.istockphoto.com/id/905702790/photo/green-ball-snooker-ball-on-white-background.jpg?s=612x612&w=0&k=20&c=1TG4dIkFX-Fa3HBF0oPPBmS60PwBi9URFC5YstIUeIs="
+        },
+        {
+            "id": 6,
+            "name": "Oneplus Galaxy s10",
+            "color": "red",
+            "price": 15000,
+            "category": "Mobile",
+            "brand": "Oneplus",
+            "photo": "https://m.media-amazon.com/images/I/51gj8xop4pL.jpg"
+        }
+    ]
+}
